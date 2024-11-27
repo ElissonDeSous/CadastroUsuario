@@ -1,9 +1,10 @@
-import { Router } from "express";
-import userController from "../Controllers/userController"
+const Router  = require("express")
+const userController = require("../Controllers/userController")
 
 const Rotas = Router();
+const Usuarios = new  userController()
 
-Rotas.get("/users", userController.BuscarUsuario);
-Rotas.post("/users", BuscarUsuario.CriarUsuario);
+Rotas.get("/users", Usuarios.Read);
+Rotas.post("/users", Usuarios.Criar);
 
-export default Rotas;
+module.exports = Rotas;
