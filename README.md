@@ -8,7 +8,8 @@ buscar usuarios
 ![image](https://github.com/user-attachments/assets/887056fa-a8e8-45ad-934e-342a6785c283)
 
 atualizar usuario
- ![image](https://github.com/user-attachments/assets/68481b0b-85dd-4dbc-b5b9-53d4fad75ba4)
+![image](https://github.com/user-attachments/assets/fca07628-772d-4650-9635-7067ca3c55d2)
+
 
  deletar usuario
  ![image](https://github.com/user-attachments/assets/feaff790-54bd-4dc0-94c2-303da721a1d3)
